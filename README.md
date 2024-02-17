@@ -134,15 +134,15 @@ Once the pi boots into the UEFI, there will be an option to test the media, run 
 <img src="assets/128_fat_32.png" alt="Alt text" title="gparted_for_usb_drive.png">
 
 
-Make sure the 100M fat16 partition points to ```/boot/efi``` and select the ```EFI System Partition```. Check reformat.
+Make sure the 100M fat16 partition points to ```/boot/efi``` and select the ```EFI System Partition```. Check reformat. Click ```Update Settings```
 
 <img src="assets/mount_point.png" alt="Alt text" title="gparted_for_usb_drive.png">
 
-Make sure the 1000M ext4 partition points to ```/boot``` and select the ```ext4 ```. Check reformat.
+Make sure the 1000M ext4 partition points to ```/boot``` and select the ```ext4 ```. Check reformat.  Click ```Update Settings```
 
 <img src="assets/mount_point_1.png" alt="Alt text" title="gparted_for_usb_drive.png">
 
-Make sure the remaining ext4 partition points to ```/``` and select the ```ext4 ```. Check reformat.
+Make sure the remaining ext4 partition points to ```/``` and select the ```ext4 ```. Check reformat.  Click ```Update Settings```
 
 <img src="assets/mount_point_2.png" alt="Alt text" title="gparted_for_usb_drive.png">
 
