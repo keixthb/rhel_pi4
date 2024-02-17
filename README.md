@@ -3,8 +3,8 @@
 
 ### Checklist:
 
-- [ ] ```rhel-baseos-9.0-aarch64-dvd.iso``` avaliable [here](https://github.com/pftf/RPi4/releases) 
-- [ ] ```RPi4_UEFI_Firmware_v1.29.zip``` avaliable [here](https://developers.redhat.com/products/rhel/download)
+- [ ] ```rhel-baseos-9.0-aarch64-dvd.iso``` avaliable [here](https://developers.redhat.com/products/rhel/download)
+- [ ] ```RPi4_UEFI_Firmware_v1.29.zip``` avaliable [here](https://github.com/pftf/RPi4/releases)
 - [ ] host system with balena etcher or gparted 
 - [ ] Raspberry Pi 4 model b
 - [ ] Micro-HDMI to HDMI adapter
