@@ -187,6 +187,8 @@ bcfg boot add 0 FS0:\EFI\redhat\shimaa64.efi "Target = 000x, bcfg Add Boot000x a
 reset
 ```
 
+**Note:** If you get an error, we can also test the install by telling the efi to boot directly from this file: ```EFI/redhat/shimaa64.efi```
+
 Make sure an ethernet cable is plugged into the system. If everything is configured properly, the UEFI should first boot into grub, then boot the kernel. The system may hang on a ```_``` for a long time after the boot menu. This is okay! Just wait a few minutes. Once inside of the new operating system, we want to update to the latest kernel. To do this, run:
 
 ```console
